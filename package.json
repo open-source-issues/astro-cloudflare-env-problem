@@ -10,11 +10,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/cloudflare": "^12.2.4",
-    "astro": "^5.5.3",
+    "@astrojs/cloudflare": "^12.3.0",
+    "astro": "^5.5.4",
     "typescript": "^5.8.2"
-  },
-  "devDependencies": {
-    "deno": "2.2.4"
   }
 }
